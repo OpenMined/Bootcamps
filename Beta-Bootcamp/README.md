@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/yemikifouly/Bootcamps/blob/master/images/om_logo.png/460/300">
+  <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/om_logo.png">
 </p>
 
-# Learning Team Beta Bootcamp
+<h1 align='center'>Learning Team Beta Bootcamp</h1>
