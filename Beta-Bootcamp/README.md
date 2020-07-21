@@ -8,17 +8,26 @@
  
 # Meet the team
 
+* **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
+
 ## Administration & Logistics
-* **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead
-* **Helena Barmer (@Helena Barmer):** Chief Events Manager
+* **Helena Barmer (@Helena Barmer):** Chief Events Manager.
 
 ## Tech
-* **Maddie Shang (@maddie shang):** LT Tech Team Lead
-* **Nahua Kang (@nahua):** Tech Leader
-* **Shaistha Fathima (@shaistha):** Tech Leader
-* **Nilansh (@Nilansh):** Tech Leader
-* **Zarreen Reza (@zarreen reza):** Teaching Assistant
-* **Manoj Koneni (@manoj_knoneni):** Teaching Assistant
+
+* **Maddie Shang (@maddie shang):** LT Tech Team Lead.
+
+### Tech Leaders & Teaching Assistants
+
+* **Nahua Kang (@nahua)**
+* **Shaistha Fathima (@shaistha)**
+* **Nilansh (@Nilansh)** 
+* **Zarreen Reza (@zarreen reza)** 
+* **Manoj Koneni (@manoj_knoneni)** 
+
+### Tech Mentors
+
+
 
 # Kick-off event:
 
@@ -30,6 +39,7 @@
 * **Date:** Saturday, July 25   @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST
 * **Topics:**
 * **Lead:**
+* **TA(s):**
 * **Recording available:**
 
 
@@ -37,18 +47,21 @@
 * **Date:** Saturday, August 1  @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST.
 * **Topics:**
 * **Lead:**
+* **TA(s):**
 * **Recording available:**
 
 ## Week 3:
 * **Date:** Saturday, August 8  @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST
 * **Topics:**
 * **Lead:**
+* **TA(s):**
 * **Recording available:**
 
 ## Week 4:
 * **Date:** Saturday, August 15 @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST
 * **Topics:**
 * **Lead:**
+* **TA(s):**
 * **Recording available:**
 
 # Participants
