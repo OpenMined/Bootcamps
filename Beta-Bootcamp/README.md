@@ -11,11 +11,14 @@
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
-We achieve this mainly through structured learning inititatives such as Bootcamps. The Beta Bootcamp is our first launch and it is our hope that we will learn a lot from your feedback and be able tfirst Bootcamp and it is our hope that it will pave the way for many more to come.
+We achieve this mainly through structured learning inititatives such as Bootcamp and this Beta Bootcamp is our first launch.
 
-## Goals
+Our goal during this Bootcamp is to introduce you to Privacy-Preserving Machine Learning (PPML) and get you started with the OpenMined PPML library, PySyft. We also hope to learn from your feedback to be able to improve and better serve you and the OpenMined community. To achieve this, we will post a survey each week for you to tell us how we are doing.
 
-The goal of our team during the Bootcamp is to learn from you what works and what doesn't in order to be able to offer a high caliber learning experience in our following Bootcamps.
+<p align="center">
+  <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/learning_tog.png">
+</p>
+<p align='center'><b>Learning Together</b></p>
 
 # About the Bootcamp
 
@@ -35,7 +38,7 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 <p align="center">
   <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
 </p>
-<p align='center' style="text-decoration: underline;"><b>Beta Bootcamp Schedule</b></p>
+<p align='center'><b>Beta Bootcamp Schedule</b></p>
 <br>
 
 The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST | 12:00 AM SST**. Each webinar will last approximately 90 minutes (1 & 1/2 hours).
@@ -58,11 +61,10 @@ Once the recordings become available, the items below will become links.
 
 These are some of the answers to some of the questions we have received from you.
 
-<br>
 <p align="center">
   <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/faqs.png">
 </p>
-<p align='center' style="text-decoration: underline;"><b>Beta Bootcamp FAQs</b></p>
+<p align='center'><b>Beta Bootcamp FAQs</b></p>
 <br>
 
 If you still have a question that has not been answered in this file and on the previous image, please post in the Bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
@@ -77,7 +79,7 @@ If you have expressed, in your application, the wish to receive mentorship, you 
 
 ## Surveys
 
-After each webinar, we will post a survey for you to take to tell us how we did and what we can improve. **This is your chance to shape our future activities and help us improve. Please take a few minutes out of your time to take them.**
+Don't forget to take the weekly surveys. **Taking them is your chance to shape our future activities and help us improve. Please take a few minutes out of your time to take them.**
 
 *The items below will become links as the survey become available.*
 
@@ -100,6 +102,7 @@ After each webinar, we will post a survey for you to take to tell us how we did 
 * **Zarreen Reza (@Zarreen Reza):** Teaching Assistant.
 * **Manoj Koneni (@manoj_koneni):** Teaching Assistant.
 * **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. 
+<br>
 * **Piyush Kumar (@kpiyush04):** Tech Mentor. 
 * **Sajan Kumar (@Sajan):** Tech Mentor.
 * **Deborah Shekinah Jacob (@Deborah):** Tech Mentor. 
@@ -110,3 +113,4 @@ After each webinar, we will post a survey for you to take to tell us how we did 
 
 # Resources
 
+[PySyft Tutorials](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials).
