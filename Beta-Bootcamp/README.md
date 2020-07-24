@@ -102,7 +102,8 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 * **Zarreen Reza (@Zarreen Reza):** Teaching Assistant.
 * **Manoj Koneni (@manoj_koneni):** Teaching Assistant.
 * **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. 
-<br>
+
+
 * **Piyush Kumar (@kpiyush04):** Tech Mentor. 
 * **Sajan Kumar (@Sajan):** Tech Mentor.
 * **Deborah Shekinah Jacob (@Deborah):** Tech Mentor. 
