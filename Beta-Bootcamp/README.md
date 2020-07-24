@@ -14,20 +14,32 @@ The Bootcamp will serve as a stepping stone for the Learning Team towards Bootca
 
 ## Schedule
 
-The structure of the schedule is as follow:
+The Bootcamp will last approximately 4 weeks. Participants who wish to work on the optional project will work 2 more weeks after the end of the Bootcamp.
 
 1. 3 weeks of active learning based on notebooks 1 - 7 of the PySyft tutorials.
 2. 1 week for review and to introduce participants to example of projects that can be worked from what has been learned.
 3. If participants wish, they can work on an optional demo project. They will have two weeks to complete the project.
 
 
-<p>
-
-</p>
+<br>
 <p align="center">
-  <img width='600' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/schedule.png">
+  <img width='600' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
 </p>
+<br>
 
+## Channels
+
+1. **#edu_beta_bootcamp:** All participants in the Beta Bootcamp have been added to this private channel.
+2. **#edu_learners:** This is the channel for everyone insterested in the activities of the Learning Team. It is a public channel.
+
+## Webinars Recordings:
+
+Once the recordings become available, the items below will become links.
+
+1. **Week 1 webinar**
+2. **Week 2 Webinar**
+3. **Week 3 webinar**
+4. **Week 4 webinar**
 
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
