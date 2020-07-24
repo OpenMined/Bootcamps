@@ -23,7 +23,7 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 <br>
 <p align="center">
-  <img width='600' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
+  <img width='600' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/schedule.png">
 </p>
 <br>
 
@@ -36,11 +36,20 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 Once the recordings become available, the items below will become links.
 
-1. **Week 1 webinar**
-2. **Week 2 Webinar**
-3. **Week 3 webinar**
-4. **Week 4 webinar**
+1. **Week 1 webinar.**
+2. **Week 2 Webinar.**
+3. **Week 3 webinar.**
+4. **Week 4 webinar.**
 
+## What can you expect from the bootcamp?
+
+<br>
+<p align="center">
+  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
+</p>
+<br>
+
+# Meet the team
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
 
@@ -61,41 +70,5 @@ Once the recordings become available, the items below will become links.
 
 ### Tech Mentors
 
-
-
-# Kick-off event:
-
-* **Date:** Friday, July 24.
- 
-# Webinars
-
-## Week 1: 
-* **Date:** Saturday, July 25   @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST
-* **Topics:**
-* **Lead:**
-* **TA(s):**
-* **Recording available:**
-
-
-## Week 2:
-* **Date:** Saturday, August 1  @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST.
-* **Topics:**
-* **Lead:**
-* **TA(s):**
-* **Recording available:**
-
-## Week 3:
-* **Date:** Saturday, August 8  @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST
-* **Topics:**
-* **Lead:**
-* **TA(s):**
-* **Recording available:**
-
-## Week 4:
-* **Date:** Saturday, August 15 @  9:00 AM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST
-* **Topics:**
-* **Lead:**
-* **TA(s):**
-* **Recording available:**
 
 # Participants
