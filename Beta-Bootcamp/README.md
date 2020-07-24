@@ -4,7 +4,7 @@
 <h1 align='center'>Learning Team Beta Bootcamp</h1>
 
 <br>
-<p align='center'>Welcome to the Beta bootcamp!</p>
+<p align='center'>Welcome to the Beta Bootcamp!</p>
 <p align='center'>Find all the information you need before, during and after the Beta bootcamp here.</p>
 <p align='center'>This is a living document that will be regurlarly updated. If you are looking for any information about the Beta bootcamp, check here first.</p>
 
@@ -26,7 +26,7 @@ Let's run this experiment and learn together!
 </p>
 <p align='center'><b>Learning Together</b></p>
 
-# About the bootcamp
+# About the Bootcamp
 
 The Beta bootcamp is the first bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
 
