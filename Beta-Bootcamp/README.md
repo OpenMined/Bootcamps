@@ -58,20 +58,20 @@ Once the recordings become available, the items below will become links.
 
 ## Tech
 
-* **Maddie Shang:** LT Tech Team Lead. *Slack: @maddie shang.*
+* **Maddie Shang (@maddie shang):** LT Tech Team Lead.
 
-* **Nahua Kang:** Tech Leader. *Slack: @nahua.*
-* **Shaistha Fathima:** Teach Leaser & Teaching Assistant. *Slack: @shaistha.*
-* **Nilansh Rajput:** Tech Leader & Teaching Assistant. *Slack: @Nilansh.*
-* **Zarreen Reza:** Teaching Assistant. *Slack: @zarreen reza.*
-* **Manoj Koneni:** Teaching Assistant. *Slack: @manoj_koneni.*
-* **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. *Slack: @LauraA.*
+* **Nahua Kang (@nahua):** Tech Leader.
+* **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
+* **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
+* **Zarreen Reza (@zarreen reza):** Teaching Assistant.
+* **Manoj Koneni (@manoj_koneni):** Teaching Assistant.
+* **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. 
+* **Piyush Kumar (@kpiyush04):** Tech Mentor. 
+* **Sajan Kumar (@Sajan):** Tech Mentor.
+* **Deborah Shekinah Jacob (@Deborah):** Tech Mentor. 
+* **Patrik Luboobi (@patricklu):** Tech Mentor.
+* **Satya Sheel (@gruby):** Tech Mentor.
 
-* **Placeholder:** Tech Mentor.
-* **Placeholder:** Tech Mentor.
-* **Placeholder:** Tech Mentor.
-* **Placeholder:** Tech Mentor.
-* **Placeholder:** Tech Mentor.
 
 
 # Resources
