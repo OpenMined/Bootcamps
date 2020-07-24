@@ -23,9 +23,9 @@ The Bootcamp will serve as a stepping stone for the Learning Team towards Bootca
 
 The Bootcamp will last approximately 4 weeks. Participants who wish to work on the optional project will work 2 more weeks after the end of the Bootcamp.
 
-1. Three weeks of active learning based on notebooks 1 - 7 of the PySyft tutorials.
-2. One week for review and to introduce participants to example of projects that can be worked from what has been learned.
-3. If participants wish, they can work on a demo project with the help and support of members of the team.
+1. **Three weeks of active learning** based on notebooks 1 - 7 of the PySyft tutorials.
+2. **One week for review** and to introduce participants to example of projects that can be worked from what has been learned.
+3. **Participants can work on a final project** with the help and support of members of the team.
 
 <br>
 <p align="center">
@@ -55,15 +55,15 @@ These are some of the answers to some of the questions we have received from you
 
 <br>
 <p align="center">
-  <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
+  <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/faqs.png">
 </p>
 <br>
 
 If you still have a question that has not been answered in this file and on the previous image, please post in the Bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
 
-* For technical questions, consider pinging, one of the Tech members, especially the Tech Team Lead (@Maddie Shang). 
-* For questions related to the Bootcamp in general, ping the Learning Team Lead (@Yemi).
-* If your questions are specific to the webinars, ping the Learning Team Chief Events Manager (@Helena Barmer).
+* For **technical questions**, consider pinging one of the Tech members including the Tech Team Lead (@Maddie Shang). 
+* For **questions related to the Bootcamp in general**, ping the Learning Team Lead (@Yemi).
+* For **questions related to webinars logistics** (timing, links, etc...), ping the Learning Team Chief Events Manager (@Helena Barmer).
 
 # Meet the team
 
