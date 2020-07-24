@@ -11,7 +11,11 @@
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
-Our main tool to achieve this is 
+We achieve this mainly through structured learning inititatives such as Bootcamps. The Beta Bootcamp is our first launch and it is our hope that we will learn a lot from your feedback and be able tfirst Bootcamp and it is our hope that it will pave the way for many more to come.
+
+## Goals
+
+The goal of our team during the Bootcamp is to learn from you what works and what doesn't in order to be able to offer a high caliber learning experience in our following Bootcamps.
 
 # About the Bootcamp
 
@@ -31,6 +35,7 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 <p align="center">
   <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
 </p>
+<p align='center' style="text-decoration: underline;"><b>Beta Bootcamp Schedule</b></p>
 <br>
 
 The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST | 12:00 AM SST**. Each webinar will last approximately 90 minutes (1 & 1/2 hours).
@@ -57,6 +62,7 @@ These are some of the answers to some of the questions we have received from you
 <p align="center">
   <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/faqs.png">
 </p>
+<p align='center' style="text-decoration: underline;"><b>Beta Bootcamp FAQs</b></p>
 <br>
 
 If you still have a question that has not been answered in this file and on the previous image, please post in the Bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
@@ -65,7 +71,22 @@ If you still have a question that has not been answered in this file and on the 
 * For **questions related to the Bootcamp in general**, ping the Learning Team Lead (@Yemi).
 * For **questions related to webinars logistics** (timing, links, etc...), ping the Learning Team Chief Events Manager (@Helena Barmer).
 
-# Meet the team
+## Mentorship
+
+If you have expressed, in your application, the wish to receive mentorship, you will soon be matched with a Technical Mentor who will reach out to you.
+
+## Surveys
+
+After each webinar, we will post a survey for you to take to tell us how we did and what we can improve. **This is your chance to shape our future activities and help us improve. Please take a few minutes out of your time to take them.**
+
+*The items below will become links as the survey become available.*
+
+1. **Survey 1.**
+2. **Survey 2.**
+3. **Survey 3.**
+4. **Survey 4.**
+
+# Meet the Beta Bootcamp Team
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
 * **Helena Barmer (@Helena Barmer):** LT Chief Events Manager.
@@ -73,7 +94,6 @@ If you still have a question that has not been answered in this file and on the 
 ## Tech
 
 * **Maddie Shang (@Maddie Shang):** LT Tech Team Lead.
-
 * **Nahua Kang (@nahua):** Tech Leader.
 * **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
 * **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
