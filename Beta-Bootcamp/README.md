@@ -5,7 +5,7 @@
     
 <p align='center'>Welcome to the Beta Bootcamp!</p>
 <p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
- 
+
 # About the Bootcamp
 
 The Beta Bootcamp is the first Bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
@@ -23,9 +23,11 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 <br>
 <p align="center">
-  <img width='600' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/schedule.png">
+  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/schedule.png">
 </p>
 <br>
+
+The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST | 12:00 AM SST**. Each webinar will last approximately 90 minutes (1 & 1/2 hours).
 
 ## Channels
 
@@ -52,23 +54,23 @@ Once the recordings become available, the items below will become links.
 # Meet the team
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
-
-## Administration & Logistics
 * **Helena Barmer (@Helena Barmer):** Chief Events Manager.
 
 ## Tech
 
 * **Maddie Shang (@maddie shang):** LT Tech Team Lead.
 
-### Tech Leaders & Teaching Assistants
-
-* **Nahua Kang (@nahua)**
-* **Shaistha Fathima (@shaistha)**
-* **Nilansh (@Nilansh)** 
-* **Zarreen Reza (@zarreen reza)** 
-* **Manoj Koneni (@manoj_knoneni)** 
+* **Nahua Kang (@nahua):** Tech Leader
+* **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant
+* **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant
+* **Zarreen Reza (@zarreen reza):** Teaching Assistant
+* **Manoj Koneni (@manoj_knoneni):** Teaching Assistant
+* **Laura 
 
 ### Tech Mentors
 
 
 # Participants
+
+# Resources
+
