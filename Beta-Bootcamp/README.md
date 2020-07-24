@@ -14,9 +14,9 @@
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
-We achieve this mainly through structured learning initiatives such as Bootcamp and this Beta Bootcamp is our first launch.
+We achieve this mainly through structured learning initiatives such as bootcamps, and this Beta Bootcamp is our first launch.
 
-Our goal during this Bootcamp is to introduce you to Privacy-Preserving Machine Learning (PPML) and get you started with the OpenMined PPML library, PySyft. We also hope to learn from your feedback to be able to improve and better serve you and the OpenMined community. To achieve this, we will post a survey each week for you to tell us how we are doing.
+Our goal during this bootcamp is to introduce you to Privacy-Preserving Machine Learning (PPML) and get you started with the OpenMined PPML library, PySyft. We also hope to learn from your feedback to be able to improve and better serve you and the OpenMined community. To achieve this, we will post a survey each week for you to tell us how we are doing.
 
 <p align="center">
   <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/learning_tog.png">
@@ -25,13 +25,13 @@ Our goal during this Bootcamp is to introduce you to Privacy-Preserving Machine 
 
 # About the Bootcamp
 
-The Beta Bootcamp is the first Bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
+The Beta Bootcamp is the first bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
 
-The Bootcamp will serve as a stepping stone for the Learning Team towards Bootcamps with much larger cohort size.
+It will serve as a stepping stone for the Learning Team towards bootcamp with much larger cohort size.
 
 ## Schedule
 
-The Bootcamp will last approximately 4 weeks. Participants who wish to work on the optional project will work 2 more weeks after the end of the Bootcamp.
+The bootcamp will last approximately 4 weeks. Participants who wish to work on the optional project will work 2 more weeks after the end of the bootcamp.
 
 1. **Three weeks of active learning** based on notebooks 1 - 8 of the PySyft tutorials.
 2. **One week for review** and to introduce participants to example of projects that can be worked from what has been learned.
@@ -70,7 +70,7 @@ These are some of the answers to some of the questions we have received from you
 <p align='center'><b>Beta Bootcamp FAQs</b></p>
 <br>
 
-If you still have a question that has not been answered in this file and on the previous image, please post in the Bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
+If you still have a question that has not been answered in this file and on the previous image, please post in the bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
 
 * For **technical questions**, consider pinging one of the Tech members including the Tech Team Lead (@Maddie Shang). 
 * For **questions related to the Bootcamp in general**, ping the Learning Team Lead (@Yemi).
