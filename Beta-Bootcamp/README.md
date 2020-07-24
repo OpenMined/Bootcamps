@@ -2,12 +2,15 @@
   <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/om_logo.png">
 </p>
 <h1 align='center'>Learning Team Beta Bootcamp</h1>
-    
+
+<br>
 <p align='center'>Welcome to the Beta Bootcamp!</p>
 <p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
 <p align='center'>This is a living file that will be regurlarly upddated. If you are looking for any information about the Beta Bootcamp, check here first.</p>
 
-# About the Learning Team
+<br>
+<br>
+<h1>About the Learning Team</h1>
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
