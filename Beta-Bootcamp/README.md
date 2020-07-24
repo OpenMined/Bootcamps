@@ -6,7 +6,7 @@
 <br>
 <p align='center'>Welcome to the Beta Bootcamp!</p>
 <p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
-<p align='center'>This is a living file that will be regurlarly upddated. If you are looking for any information about the Beta Bootcamp, check here first.</p>
+<p align='center'>This is a living document that will be regurlarly upddated. If you are looking for any information about the Beta Bootcamp, check here first.</p>
 
 <br>
 <br>
