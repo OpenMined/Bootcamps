@@ -6,7 +6,28 @@
 <p align='center'>Welcome to the Beta Bootcamp!</p>
 <p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
  
-# Meet the team
+# About the Bootcamp
+
+The Beta Bootcamp is the first Bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
+
+The Bootcamp will serve as a stepping stone for the Learning Team towards Bootcamps with much larger cohort size.
+
+## Schedule
+
+The structure of the schedule is as follow:
+
+1. 3 weeks of active learning based on notebooks 1 - 7 of the PySyft tutorials.
+2. 1 week for review and to introduce participants to example of projects that can be worked from what has been learned.
+3. If participants wish, they can work on an optional demo project. They will have two weeks to complete the project.
+
+
+<p align="center">
+  <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/BB.png">
+</p>
+
+
+
+
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
 
