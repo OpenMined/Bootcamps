@@ -23,7 +23,7 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 <br>
 <p align="center">
-  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/schedule.png">
+  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/plan.png">
 </p>
 <br>
 
@@ -73,8 +73,6 @@ Once the recordings become available, the items below will become links.
 * **Placeholder:** Tech Mentor.
 * **Placeholder:** Tech Mentor.
 
-
-# Participants
 
 # Resources
 
