@@ -34,14 +34,14 @@ The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM 
 1. **#edu_beta_bootcamp:** All participants in the Beta Bootcamp have been added to this private channel.
 2. **#edu_learners:** This is the channel for everyone insterested in the activities of the Learning Team. It is a public channel.
 
-## Webinars Recordings:
+## Webinars slides and recordings:
 
 Once the recordings become available, the items below will become links.
 
-1. **Week 1 webinar.**
-2. **Week 2 Webinar.**
-3. **Week 3 webinar.**
-4. **Week 4 webinar.**
+1. **Week 1:** Recording. Slides.
+2. **Week 2:** Recording. Slides.
+3. **Week 3:** Recording. Slides.
+4. **Week 4:** Recording. Slides.
 
 ## What can you expect from the bootcamp?
 
@@ -58,14 +58,14 @@ Once the recordings become available, the items below will become links.
 
 ## Tech
 
-* **Maddie Shang (@maddie shang):** LT Tech Team Lead.
+* **Maddie Shang:** LT Tech Team Lead. *Slack: @maddie shang.*
 
-* **Nahua Kang (@nahua):** Tech Leader.
-* **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
-* **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
-* **Zarreen Reza (@zarreen reza):** Teaching Assistant.
-* **Manoj Koneni (@manoj_knoneni):** Teaching Assistant.
-* **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant.
+* **Nahua Kang:** Tech Leader. *Slack: @nahua.*
+* **Shaistha Fathima:** Teach Leaser & Teaching Assistant. *Slack: @shaistha.*
+* **Nilansh Rajput:** Tech Leader & Teaching Assistant. *Slack: @Nilansh.*
+* **Zarreen Reza:** Teaching Assistant. *Slack: @zarreen reza.*
+* **Manoj Koneni:** Teaching Assistant. *Slack: @manoj_koneni.*
+* **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. *Slack: @LauraA.*
 
 * **Placeholder:** Tech Mentor.
 * **Placeholder:** Tech Mentor.
