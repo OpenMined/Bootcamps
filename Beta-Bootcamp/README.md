@@ -4,9 +4,9 @@
 <h1 align='center'>Learning Team Beta Bootcamp</h1>
 
 <br>
-<p align='center'>Welcome to the Beta Bootcamp!</p>
-<p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
-<p align='center'>This is a living document that will be regurlarly updated. If you are looking for any information about the Beta Bootcamp, check here first.</p>
+<p align='center'>Welcome to the Beta bootcamp!</p>
+<p align='center'>Find all the information you need before, during and after the Beta bootcamp here.</p>
+<p align='center'>This is a living document that will be regurlarly updated. If you are looking for any information about the Beta bootcamp, check here first.</p>
 
 <br>
 <br>
@@ -14,9 +14,9 @@
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
-We achieve this mainly through structured learning initiatives such as Bootcamp and this Beta Bootcamp is our first launch.
+We achieve this mainly through structured learning initiatives such as bootcamp and this Beta bootcamp is our first launch.
 
-Our goal during this Bootcamp is to introduce you to Privacy-Preserving Machine Learning (PPML) and get you started with the OpenMined PPML library, PySyft. We also hope to learn from your feedback to be able to improve and better serve you, the OpenMined community, and future learners. To achieve this, we will post a survey each week for you to tell us how we are doing. 
+Our goal during this bootcamp is to introduce you to Privacy-Preserving Machine Learning (PPML) and get you started with the OpenMined PPML library, PySyft. We also hope to learn from your feedback to be able to improve and better serve you, the OpenMined community, and future learners. To achieve this, we will post a survey each week for you to tell us how we are doing. 
 
 Let's run this experiment and learn together! 
 (You'll learn PPML from us, we'll learn how to deliver a high quality open-source education experience from you!) 😃
@@ -26,15 +26,15 @@ Let's run this experiment and learn together!
 </p>
 <p align='center'><b>Learning Together</b></p>
 
-# About the Bootcamp
+# About the bootcamp
 
-The Beta Bootcamp is the first Bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
+The Beta bootcamp is the first bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
 
-The Bootcamp will serve as a stepping stone for the Learning Team towards Bootcamps with much larger cohort size and new courses / content.
+The bootcamp will serve as a stepping stone for the Learning Team towards bootcamps with much larger cohort size and new courses / content.
 
 ## Schedule
 
-The Bootcamp will last approximately 4 weeks. Participants who wish to work on the capstone project will work ~2 more weeks after the end of the Bootcamp.
+The bootcamp will last approximately 4 weeks. Participants who wish to work on the capstone project will work ~2 more weeks after the end of the bootcamp.
 
 1. **Three weeks of active learning** based on notebooks 1 - 8 of the PySyft tutorials.
 2. **One week for review** and to introduce participants to example of projects that can be worked from what has been learned.
@@ -51,7 +51,7 @@ The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM 
 
 ## Channels
 
-1. **#edu_beta_bootcamp:** All participants in the Beta Bootcamp have been added to this private channel.
+1. **#edu_beta_bootcamp:** All participants in the Beta bootcamp have been added to this private channel.
 2. **#edu_learners:** This is the channel for everyone insterested in the activities of the Learning Team. It is a public channel.
 
 ## Webinars slides and recordings:
