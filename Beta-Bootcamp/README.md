@@ -21,11 +21,12 @@ The structure of the schedule is as follow:
 3. If participants wish, they can work on an optional demo project. They will have two weeks to complete the project.
 
 
-<p align="center">
-  <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/BB.png">
+<p>
+
 </p>
-
-
+<p align="center">
+  <img width='600' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/schedule.png">
+</p>
 
 
 
