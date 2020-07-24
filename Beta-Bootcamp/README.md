@@ -27,7 +27,6 @@ The Bootcamp will last approximately 4 weeks. Participants who wish to work on t
 2. One week for review and to introduce participants to example of projects that can be worked from what has been learned.
 3. If participants wish, they can work on a demo project with the help and support of members of the team.
 
-
 <br>
 <p align="center">
   <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
@@ -50,13 +49,21 @@ Once the recordings become available, the items below will become links.
 3. **Week 3:** Recording. Slides.
 4. **Week 4:** Recording. Slides.
 
-## What can you expect from the bootcamp?
+## FAQs
+
+These are some of the answers to some of the questions we have received from you.
 
 <br>
 <p align="center">
   <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
 </p>
 <br>
+
+If you still have a question that has not been answered in this file and on the previous image, please post in the Bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
+
+* For technical questions, consider pinging, one of the Tech members, especially the Tech Team Lead (@Maddie Shang). 
+* For questions related to the Bootcamp in general, ping the Learning Team Lead (@Yemi).
+* If your questions are specific to the webinars, ping the Learning Team Chief Events Manager (@Helena Barmer).
 
 # Meet the team
 
@@ -65,7 +72,7 @@ Once the recordings become available, the items below will become links.
 
 ## Tech
 
-* **Maddie Shang (@maddie shang):** LT Tech Team Lead.
+* **Maddie Shang (@Maddie Shang):** LT Tech Team Lead.
 
 * **Nahua Kang (@nahua):** Tech Leader.
 * **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
