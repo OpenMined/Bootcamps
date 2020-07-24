@@ -5,6 +5,13 @@
     
 <p align='center'>Welcome to the Beta Bootcamp!</p>
 <p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
+<p align='center'>This is a living file that will be regurlarly upddated. If you are looking for any information about the Beta Bootcamp, check here first.</p>
+
+# About the Learning Team
+
+We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
+
+Our main tool to achieve this is 
 
 # About the Bootcamp
 
@@ -16,14 +23,14 @@ The Bootcamp will serve as a stepping stone for the Learning Team towards Bootca
 
 The Bootcamp will last approximately 4 weeks. Participants who wish to work on the optional project will work 2 more weeks after the end of the Bootcamp.
 
-1. 3 weeks of active learning based on notebooks 1 - 7 of the PySyft tutorials.
-2. 1 week for review and to introduce participants to example of projects that can be worked from what has been learned.
-3. If participants wish, they can work on an optional demo project. They will have two weeks to complete the project.
+1. Three weeks of active learning based on notebooks 1 - 7 of the PySyft tutorials.
+2. One week for review and to introduce participants to example of projects that can be worked from what has been learned.
+3. If participants wish, they can work on a demo project with the help and support of members of the team.
 
 
 <br>
 <p align="center">
-  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/plan.png">
+  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
 </p>
 <br>
 
@@ -47,7 +54,7 @@ Once the recordings become available, the items below will become links.
 
 <br>
 <p align="center">
-  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
+  <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/info.png">
 </p>
 <br>
 
@@ -63,7 +70,7 @@ Once the recordings become available, the items below will become links.
 * **Nahua Kang (@nahua):** Tech Leader.
 * **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
 * **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
-* **Zarreen Reza (@zarreen reza):** Teaching Assistant.
+* **Zarreen Reza (@Zarreen Reza):** Teaching Assistant.
 * **Manoj Koneni (@manoj_koneni):** Teaching Assistant.
 * **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. 
 * **Piyush Kumar (@kpiyush04):** Tech Mentor. 
@@ -71,7 +78,7 @@ Once the recordings become available, the items below will become links.
 * **Deborah Shekinah Jacob (@Deborah):** Tech Mentor. 
 * **Patrik Luboobi (@patricklu):** Tech Mentor.
 * **Satya Sheel (@gruby):** Tech Mentor.
-
+* **Ramesht Shukla (@Ramesht Shukla):** Tech Mentor.
 
 
 # Resources
