@@ -54,20 +54,24 @@ Once the recordings become available, the items below will become links.
 # Meet the team
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
-* **Helena Barmer (@Helena Barmer):** Chief Events Manager.
+* **Helena Barmer (@Helena Barmer):** LT Chief Events Manager.
 
 ## Tech
 
 * **Maddie Shang (@maddie shang):** LT Tech Team Lead.
 
-* **Nahua Kang (@nahua):** Tech Leader
-* **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant
-* **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant
-* **Zarreen Reza (@zarreen reza):** Teaching Assistant
-* **Manoj Koneni (@manoj_knoneni):** Teaching Assistant
-* **Laura 
+* **Nahua Kang (@nahua):** Tech Leader.
+* **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
+* **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
+* **Zarreen Reza (@zarreen reza):** Teaching Assistant.
+* **Manoj Koneni (@manoj_knoneni):** Teaching Assistant.
+* **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant.
 
-### Tech Mentors
+* **Placeholder:** Tech Mentor.
+* **Placeholder:** Tech Mentor.
+* **Placeholder:** Tech Mentor.
+* **Placeholder:** Tech Mentor.
+* **Placeholder:** Tech Mentor.
 
 
 # Participants
