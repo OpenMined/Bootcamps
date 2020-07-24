@@ -14,7 +14,7 @@
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
-We achieve this mainly through structured learning initiatives such as bootcamp and this Beta bootcamp is our first launch.
+We achieve this mainly through structured learning initiatives such as bootcamps and this Beta bootcamp is our first launch.
 
 Our goal during this bootcamp is to introduce you to Privacy-Preserving Machine Learning (PPML) and get you started with the OpenMined PPML library, PySyft. We also hope to learn from your feedback to be able to improve and better serve you, the OpenMined community, and future learners. To achieve this, we will post a survey each week for you to tell us how we are doing. 
 
