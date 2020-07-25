@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/om_logo.png">
+  <img src="https://github.com/OpenMined/Bootcamps/blob/master/images/om_logo.png">
 </p>
 <h1 align='center'>Learning Team Beta Bootcamp</h1>
 
@@ -22,7 +22,7 @@ Let's run this experiment and learn together!
 (You'll learn PPML from us, we'll learn how to deliver a high quality open-source education experience from you!) 😃
 
 <p align="center">
-  <img src="https://github.com/yemikifouly/Bootcamps/blob/master/images/learning_tog.png">
+  <img src="https://github.com/OpenMined/Bootcamps/blob/master/images/learning_together.png">
 </p>
 <p align='center'><b>Learning Together</b></p>
 
@@ -42,7 +42,7 @@ The bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 <br>
 <p align="center">
-  <img width='800' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/planning.png">
+  <img width='800' src="https://github.com/OpenMined/Bootcamps/blob/master/images/bb_schedule.png">
 </p>
 <p align='center'><b>Beta Bootcamp Schedule</b></p>
 <br>
@@ -83,7 +83,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 These are some of the answers to some of the questions we have received from you.
 
 <p align="center">
-  <img width='1000' src="https://github.com/yemikifouly/Bootcamps/blob/master/images/faqs.png">
+  <img width='1000' src="https://github.com/OpenMined/Bootcamps/blob/master/images/faqs.png">
 </p>
 <p align='center'><b>Beta Bootcamp FAQs</b></p>
 <br>
@@ -101,20 +101,26 @@ If you still have a question that has not been answered in this file and on the 
 * **Maddie Shang (@Maddie Shang):** LT Tech Team Lead.
 
 
-## Tech
+## Tech Leaders & Teaching Assistants
 
 * **Nahua Kang (@nahua):** Tech Leader.
-* **Shaistha Fathima (@shaistha):** Teach Leaser & Teaching Assistant.
+* **Shaistha Fathima (@Shaistha):** Teach Leaser & Teaching Assistant.
 * **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
 * **Zarreen Reza (@Zarreen Reza):** Teaching Assistant.
 * **Manoj Koneni (@manoj_koneni):** Teaching Assistant.
-* **Laura Ayre (@LauraA):** Tech Mentor & Teaching Assistant. 
-* **Piyush Kumar (@kpiyush04):** Tech Mentor. 
-* **Sajan Kumar (@Sajan):** Tech Mentor.
-* **Deborah Shekinah Jacob (@Deborah):** Tech Mentor. 
-* **Patrick Luboobi (@patricklu):** Tech Mentor.
-* **Satya Sheel (@gruby):** Tech Mentor.
-* **Ramesht Shukla (@Ramesht Shukla):** Tech Mentor.
+* **Laura Ayre (@LauraA):** Teaching Assistant.
+
+## Tech Mentors
+
+* **Laura Ayre (@LauraA):** 
+* **Deborah Shekinah Jacob (@Deborah):** 
+* **Somil Jain (@coderatwork7):**
+* **Nishant Kumar (@Nishant):** 
+* **Piyush Kumar (@kpiyush04):**
+* **Sajan Kumar (@Sajan):**
+* **Patrick Luboobi (@patricklu):**
+* **Satya Sheel (@gruby):**
+* **Ramesht Shukla (@Ramesht Shukla):**
 
 
 # Resources
