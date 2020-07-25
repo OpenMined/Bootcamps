@@ -63,6 +63,21 @@ Once the recordings become available, the items below will become links.
 3. **Week 3:** Recording. Slides.
 4. **Week 4:** Recording. Slides.
 
+## Mentorship
+
+If you have expressed, in your application, the wish to receive mentorship, you will soon be matched with a Technical Mentor who will reach out to you.
+
+## Surveys
+
+Don't forget to take the weekly surveys. **Taking them is your chance to shape our future activities and help us improve. Please take a few minutes out of your time to take them.** Help us help you! We would also love to hear your ideas on how we can be more effective.
+
+*The items below will become links as the survey become available.*
+
+1. **Survey 1.**
+2. **Survey 2.**
+3. **Survey 3.**
+4. **Survey 4.**
+
 ## FAQs
 
 These are some of the answers to some of the questions we have received from you.
@@ -78,21 +93,6 @@ If you still have a question that has not been answered in this file and on the 
 * For **technical questions**, consider pinging one of the Tech members including the Tech Team Lead (@Maddie Shang). 
 * For **questions related to the Bootcamp in general**, ping the Learning Team Lead (@Yemi).
 * For **questions related to webinars logistics** (timing, links, etc...), ping the Learning Team Chief Events Manager (@Helena Barmer).
-
-## Mentorship
-
-If you have expressed, in your application, the wish to receive mentorship, you will soon be matched with a Technical Mentor who will reach out to you.
-
-## Surveys
-
-Don't forget to take the weekly surveys. **Taking them is your chance to shape our future activities and help us improve. Please take a few minutes out of your time to take them.** Help us help you! We would also love to hear your ideas on how we can be more effective.
-
-*The items below will become links as the survey become available.*
-
-1. **Survey 1.**
-2. **Survey 2.**
-3. **Survey 3.**
-4. **Survey 4.**
 
 # Meet the Beta Bootcamp Team
 
