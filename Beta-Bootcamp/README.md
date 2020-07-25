@@ -112,7 +112,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 * **Piyush Kumar (@kpiyush04):** Tech Mentor. 
 * **Sajan Kumar (@Sajan):** Tech Mentor.
 * **Deborah Shekinah Jacob (@Deborah):** Tech Mentor. 
-* **Patrik Luboobi (@patricklu):** Tech Mentor.
+* **Patrick Luboobi (@patricklu):** Tech Mentor.
 * **Satya Sheel (@gruby):** Tech Mentor.
 * **Ramesht Shukla (@Ramesht Shukla):** Tech Mentor.
 
