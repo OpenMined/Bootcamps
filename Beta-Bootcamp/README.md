@@ -112,15 +112,15 @@ If you still have a question that has not been answered in this file and on the 
 
 ## Tech Mentors
 
-* **Laura Ayre (@LauraA):** 
-* **Deborah Shekinah Jacob (@Deborah):** 
-* **Somil Jain (@coderatwork7):**
-* **Nishant Kumar (@Nishant):** 
-* **Piyush Kumar (@kpiyush04):**
-* **Sajan Kumar (@Sajan):**
-* **Patrick Luboobi (@patricklu):**
-* **Satya Sheel (@gruby):**
-* **Ramesht Shukla (@Ramesht Shukla):**
+* **Laura Ayre (@LauraA)** 
+* **Deborah Shekinah Jacob (@Deborah)** 
+* **Somil Jain (@coderatwork7)**
+* **Nishant Kumar (@Nishant)** 
+* **Piyush Kumar (@kpiyush04)**
+* **Sajan Kumar (@Sajan)**
+* **Patrick Luboobi (@patricklu)**
+* **Satya Sheel (@gruby)**
+* **Ramesht Shukla (@Ramesht Shukla)**
 
 
 # Resources
