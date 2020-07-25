@@ -58,10 +58,17 @@ The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM 
 
 Once the recordings become available, the items below will become links.
 
-1. **Week 1:** Recording. Slides.
-2. **Week 2:** Recording. Slides.
-3. **Week 3:** Recording. Slides.
-4. **Week 4:** Recording. Slides.
+### 1. Week 1 Resources
+* [Quiz](http://quizizz.com/join?gc=4358216).
+* [Slides](https://docs.google.com/presentation/d/1-nX-M9ZLGCT20t93sH669gTuH48wu_LbL9YilgpOEFs/edit?usp=sharing).
+* [PySyft Tutoral Notebook 1 (Google Colab)](https://colab.research.google.com/drive/1Au-8y4LfMh6lWpe1x0u0V0EhEynQcmjn?usp=sharing).
+* [PySyft Tutoral Notebook 2 (Google Colab)](https://colab.research.google.com/drive/1HrK09rKBkc5fMf2NBE8kUe3b8P_EwNqQ?usp=sharing).
+* [PySyft Tutoral Notebook 3 (Google Colab)](https://colab.research.google.com/drive/1hmYy89GzPPkCN0PEVMom-pg70xWG9rni?usp=sharing).
+* Recording.
+
+### 2. Week 2 Resources
+### 3. Week 3 Resources
+### 4. Week 4 Resources
 
 ## Mentorship
 
@@ -73,7 +80,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 
 *The items below will become links as the survey become available.*
 
-1. **Survey 1.**
+1. **[Survey 1](https://forms.gle/5FYgv5DUciffb5XVA).**
 2. **Survey 2.**
 3. **Survey 3.**
 4. **Survey 4.**
