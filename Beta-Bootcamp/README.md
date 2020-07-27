@@ -60,6 +60,7 @@ Once the recordings become available, the items below will become links.
 
 ### 1. Week 1 Resources
 * [Quiz](http://quizizz.com/join?gc=4358216).
+* [Homework](https://github.com/OpenMined/Bootcamps/blob/master/Beta-Bootcamp/Homeworks/HW1.md).
 * [Slides](https://docs.google.com/presentation/d/1-nX-M9ZLGCT20t93sH669gTuH48wu_LbL9YilgpOEFs/edit?usp=sharing).
 * [PySyft Tutoral Notebook 1 (Google Colab)](https://colab.research.google.com/drive/1Au-8y4LfMh6lWpe1x0u0V0EhEynQcmjn?usp=sharing).
 * [PySyft Tutoral Notebook 2 (Google Colab)](https://colab.research.google.com/drive/1HrK09rKBkc5fMf2NBE8kUe3b8P_EwNqQ?usp=sharing).
