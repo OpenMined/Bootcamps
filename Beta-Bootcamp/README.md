@@ -11,15 +11,19 @@
 <br>
 
 # Table of Contents
+
 - [**About the Learning Team**](#about-the-learning-team)
 - [**About the Bootcamp**](#about-the-bootcamp)
   - [**Schedule**](#schedule)
   - [**Channels**](#channels)
   - [**Webinars Resources**](#webinars-resources)
+- [**Technical Mentorship**](#mentorship)
+- [**Surveys**](#surveys)
 - [**FAQs**](#faqs)
+- [**Asking Questions**](#asking-questions)
 - [**The Beta Bootcamp Team**](#the-beta-bootcamp-team)
-  - [**Tech Leaders & Teaching Assistants**](#tech-leaders-tas)
-  - [**Tech Mentors**](#tech-mentors)
+  - [**Tech Leaders**](#tech-leaders-tas)
+  - [**Teaching Assitants**](#tech-mentors)
 - [**Resources**](#resources)
 
 <br>
@@ -93,7 +97,20 @@ Once the recordings become available, the items below will become links.
 
 ## Mentorship
 
-If you have expressed, in your application, the wish to receive mentorship, you will soon be matched with a Technical Mentor who will reach out to you.
+If you have expressed, in your application, the desire to receive one-on-one technical mentorship during the bootcamp you will be matched with one of the Technical Mentors below.
+
+* **Laura Ayre (@LauraA)** 
+* **Deborah Shekinah Jacob (@Deborah)** 
+* **Somil Jain (@coderatwork7)**
+* **Nishant Kumar (@Nishant)** 
+* **Piyush Kumar (@kpiyush04)**
+* **Sachin Kumar (@Sachin)**
+* **Sajan Kumar (@Sajan)**
+* **Patrick Luboobi (@patricklu)**
+* **Satya Sheel (@gruby)**
+* **Ramesht Shukla (@Ramesht Shukla)**
+
+If you didn't check the Technical Mentorship box when you applied but now wish to be matched with a Technical Mentor, please send a private message to the Learning Team Lead (@Yemi).
 
 ## Surveys
 
@@ -130,28 +147,17 @@ If you still have a question that has not been answered in this file and on the 
 * **Helena Barmer (@Helena Barmer):** LT Chief Events Manager.
 * **Maddie Shang (@Maddie Shang):** LT Tech Team Lead.
 
+## Tech Leaders
 
-## Tech Leaders & Teaching Assistants
+* **Shaistha Fathima (@Shaistha)**
+* **Nahua Kang (@nahua)**
+* **Nilansh Rajput (@Nilansh)** 
 
-* **Nahua Kang (@nahua):** Tech Leader.
-* **Shaistha Fathima (@Shaistha):** Teach Leaser & Teaching Assistant.
-* **Nilansh Rajput (@Nilansh):** Tech Leader & Teaching Assistant.
-* **Zarreen Reza (@Zarreen Reza):** Teaching Assistant.
-* **Manoj Koneni (@manoj_koneni):** Teaching Assistant.
-* **Laura Ayre (@LauraA):** Teaching Assistant.
+## Tech Assistants
 
-## Tech Mentors
-
-* **Laura Ayre (@LauraA)** 
-* **Deborah Shekinah Jacob (@Deborah)** 
-* **Somil Jain (@coderatwork7)**
-* **Nishant Kumar (@Nishant)** 
-* **Piyush Kumar (@kpiyush04)**
-* **Sachin Kumar (@Sachin)**
-* **Sajan Kumar (@Sajan)**
-* **Patrick Luboobi (@patricklu)**
-* **Satya Sheel (@gruby)**
-* **Ramesht Shukla (@Ramesht Shukla)**
+* **Laura Ayre (@LauraA)**
+* **Manoj Koneni (@manoj_koneni)**
+* **Zarreen Reza (@Zarreen Reza)**
 
 
 # Resources
