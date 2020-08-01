@@ -9,8 +9,21 @@
 <p align='center'>This is a living document that will be regurlarly updated. If you are looking for any information about the Beta bootcamp, check here first.</p>
 
 <br>
+
+# Table of Contents
+- [**About the Learning Team**](#about-the-learning-team)
+- [**About the Bootcamp**](#about-the-bootcamp)
+  - [**Schedule**](#schedule)
+  - [**Channels**](#channels)
+  - [**Webinars Resources**](#webinars-resources)
+- [**FAQs**](#faqs)
+- [**The Beta Bootcamp Team**](#the-beta-bootcamp-team)
+  - [**Tech Leaders & Teaching Assistants**](#tech-leaders-tas)
+  - [**Tech Mentors**](#tech-mentors)
+- [**Resources**](#resources)
+
 <br>
-<h1>About the Learning Team</h1>
+<h1 id=#about-the-learning-team>About the Learning Team</h1>
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
@@ -26,7 +39,7 @@ Let's run this experiment and learn together!
 </p>
 <p align='center'><b>Learning Together</b></p>
 
-# About the Bootcamp
+<h1 id=#about-the-bootcamp>About the Bootcamp</h1>
 
 The Beta bootcamp is the first bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
 
@@ -54,11 +67,11 @@ The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM 
 1. **#edu_beta_bootcamp:** All participants in the Beta bootcamp have been added to this private channel.
 2. **#edu_learners:** This is the channel for everyone insterested in the activities of the Learning Team. It is a public channel.
 
-## Webinars slides and recordings:
+## Webinars Resources:
 
 Once the recordings become available, the items below will become links.
 
-### 1. Week 1 Resources
+### 1. Week 1
 * [Quiz](http://quizizz.com/join?gc=4358216).
 * [Homework](https://github.com/OpenMined/Bootcamps/blob/master/Beta-Bootcamp/Homeworks/HW1.md).
 * [Slides](https://docs.google.com/presentation/d/1-nX-M9ZLGCT20t93sH669gTuH48wu_LbL9YilgpOEFs/edit?usp=sharing).
@@ -67,7 +80,7 @@ Once the recordings become available, the items below will become links.
 * [PySyft Tutoral Notebook 3 (Google Colab)](https://colab.research.google.com/drive/1hmYy89GzPPkCN0PEVMom-pg70xWG9rni?usp=sharing).
 * [Recording](https://www.youtube.com/watch?v=s8gmMPNr1-c&feature=youtu.be).
 
-### 2. Week 2 Resources
+### 2. Week 2
 * Homework.
 * Slides.
 * [PySyft Tutorial Notebook 4 (Google Colab)](https://colab.research.google.com/drive/1W8FbX4rSZFAFfnpnoyw4L4thP2XCDfoS?usp=sharing).
@@ -75,8 +88,8 @@ Once the recordings become available, the items below will become links.
 * [PySyft Tutorial Notebook 6 (Google Colab)](https://colab.research.google.com/drive/11JgtHiA5QZ1WdgCuLjaIA_zyfCW3xvSz?usp=sharing).
 * Recording.
 
-### 3. Week 3 Resources
-### 4. Week 4 Resources
+### 3. Week 3
+### 4. Week 4
 
 ## Mentorship
 
@@ -111,7 +124,7 @@ If you still have a question that has not been answered in this file and on the 
 
 *Remember that your peers probably have the same questions that you do. So, although you can DM your questions, **we strongly recommend when you post them publicly in the Bootcamp's channel (#edu_beta_bootcamp) instead messaging them to a member of the team**. Allow your peers to learn from your questions! 🙂*
 
-# Meet the Beta Bootcamp Team
+# The Beta Bootcamp Team
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
 * **Helena Barmer (@Helena Barmer):** LT Chief Events Manager.
