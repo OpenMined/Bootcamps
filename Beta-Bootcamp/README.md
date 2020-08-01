@@ -5,8 +5,8 @@
 
 <br>
 <p align='center'>Welcome to the Beta Bootcamp!</p>
-<p align='center'>Find all the information you need before, during and after the Beta bootcamp here.</p>
-<p align='center'>This is a living document that will be regurlarly updated. If you are looking for any information about the Beta bootcamp, check here first.</p>
+<p align='center'>Find all the information you need before, during and after the Beta Bootcamp here.</p>
+<p align='center'>This is a living document that will be regurlarly updated. If you are looking for any information about the Beta Bootcamp, check here first.</p>
 
 <br>
 
@@ -27,7 +27,7 @@
 - [**Resources**](#resources)
 
 <br>
-<h1 id=#about-the-learning-team>About the Learning Team</h1>
+<h1 id=about-the-learning-team>About the Learning Team</h1>
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
@@ -45,11 +45,11 @@ Let's run this experiment and learn together!
 
 <h1 id=#about-the-bootcamp>About the Bootcamp</h1>
 
-The Beta bootcamp is the first bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
+The Beta Bootcamp is the first bootcamp of the Learning Team. It has a cohort size of 15 that were selected from a pool of very strong applicants.
 
 The bootcamp will serve as a stepping stone for the Learning Team towards bootcamps with much larger cohort size and new courses / content.
 
-## Schedule
+<h2 id='schedule'>Schedule</h2>
 
 The bootcamp will last approximately 4 weeks. Participants who wish to work on the capstone project will work ~2 more weeks after the end of the bootcamp.
 
@@ -68,7 +68,7 @@ The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM 
 
 ## Channels
 
-1. **#edu_beta_bootcamp:** All participants in the Beta bootcamp have been added to this private channel.
+1. **#edu_beta_bootcamp:** All participants in the Beta Bootcamp have been added to this private channel.
 2. **#edu_learners:** This is the channel for everyone insterested in the activities of the Learning Team. It is a public channel.
 
 ## Webinars Resources:
@@ -97,7 +97,9 @@ Once the recordings become available, the items below will become links.
 
 ## Mentorship
 
-If you have expressed, in your application, the desire to receive one-on-one technical mentorship during the bootcamp you will be matched with one of the Technical Mentors below.
+If you have expressed, in your application, the desire to receive one-on-one technical mentorship during the bootcamp you will be matched with one of the Technical Mentors below. 
+
+If you are not contacted by your mentor by August 3rd, please DM the Learning Team Lead (@Yemi).
 
 * **Laura Ayre (@LauraA)** 
 * **Deborah Shekinah Jacob (@Deborah)** 
@@ -110,7 +112,9 @@ If you have expressed, in your application, the desire to receive one-on-one tec
 * **Satya Sheel (@gruby)**
 * **Ramesht Shukla (@Ramesht Shukla)**
 
-If you didn't check the Technical Mentorship box when you applied but now wish to be matched with a Technical Mentor, please send a private message to the Learning Team Lead (@Yemi).
+**Recommendation for Technical Questions:** Although you can ask such questions to your mentor via private message, we strongly recommend that you post them in the bootcamp's channel (#edu_beta_bootcamp) and ping your mentor. This allows other participants in the bootcamp to get an answer if they had the same question.
+
+*If you didn't check the Technical Mentorship box when you applied but now wish to be matched with a Technical Mentor, please send a private message to @Yemi on Slack.*
 
 ## Surveys
 
@@ -133,13 +137,15 @@ These are some of the answers to some of the questions we have received from you
 <p align='center'><b>Beta Bootcamp FAQs</b></p>
 <br>
 
-If you still have a question that has not been answered in this file and on the previous image, please post in the Bootcamp's channel (#edu_beta_bootcamp). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
+## Asking Questions
 
-* For **technical questions**, consider pinging one of the Tech members including the Tech Team Lead (@Maddie Shang). 
-* For **questions related to the Bootcamp in general**, ping the Learning Team Lead (@Yemi).
+Whenever you have questions, please post in the bootcamp's channel (**#edu_beta_bootcamp**). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
+
+* For **technical questions**, consider pinging a Tech Leader or Teaching Assistant (find their names and Slack handles below) or the Tech Team Lead (@Maddie Shang). 
+* For **questions related to the bootcamp or to mentorship**, ping the Learning Team Lead (@Yemi).
 * For **questions related to webinars logistics** (timing, links, etc...), ping the Learning Team Chief Events Manager (@Helena Barmer).
 
-*Remember that your peers probably have the same questions that you do. So, although you can DM your questions, **we strongly recommend when you post them publicly in the Bootcamp's channel (#edu_beta_bootcamp) instead messaging them to a member of the team**. Allow your peers to learn from your questions! 🙂*
+*Remember that your peers probably have the same questions that you do. So, although you can DM your questions, **we strongly recommend when you post them publicly in the bootcamp's channel (#edu_beta_bootcamp) instead**. Allow your peers to learn from your questions! 🙂*
 
 # The Beta Bootcamp Team
 
