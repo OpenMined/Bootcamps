@@ -84,7 +84,7 @@ Once the recordings become available, the items below will become links.
 * [Recording](https://www.youtube.com/watch?v=s8gmMPNr1-c&feature=youtu.be).
 
 ### 2. Week 2
-* [Homework](https://colab.research.google.com/drive/1QO8WNi_G2oVcHStNE-S0BYcitrgUxHv9?usp=sharing).
+* [Homework](https://github.com/OpenMined/Bootcamps/blob/master/Beta-Bootcamp/Homeworks/HW_2.md).
 * [Slides](https://docs.google.com/presentation/d/1gAbNS85LLFFI6MqDe70gZewcvoVyT8WRnoY8q6OV4Pw/edit?usp=sharing).
 * [PySyft Tutorial Notebook 4 (Google Colab)](https://colab.research.google.com/drive/1W8FbX4rSZFAFfnpnoyw4L4thP2XCDfoS?usp=sharing).
 * [PySyft Tutorial Notebook 5 (Google Colab)](https://colab.research.google.com/drive/1T0pJ3DysOn3DM4XW-gNpL63dzw8qDRW7?usp=sharing).
