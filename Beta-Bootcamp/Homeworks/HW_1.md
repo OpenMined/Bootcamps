@@ -3,7 +3,7 @@
 
 Check your understanding on the topics covered during the first webinar, by going through these assignments.
 
-These are not due and you don't need to submit the answers to us. They are for you to check your own understanding. If you have trouble with any of the technical questions or are unsure of the answer, please post in the channel to get help from a Tech Leader or a Teaching Assistant.
+These are not due and you don't need to submit the answers to us. They are for you to check your own understanding. **If you have trouble with any of the technical questions or are unsure of the answer, please post in the channel to get help from a Tech Leader or a Teaching Assistant.**
 
 <hr>
 
