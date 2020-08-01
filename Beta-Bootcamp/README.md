@@ -17,7 +17,7 @@
   - [**Schedule**](#schedule)
   - [**Channels**](#channels)
   - [**Webinars Resources**](#webinars-resources)
-- [**Technical Mentorship**](#mentorship)
+- [**Technical Mentorship**](#tech-mentorship)
 - [**Surveys**](#surveys)
 - [**FAQs**](#faqs)
 - [**Asking Questions**](#asking-questions)
@@ -27,7 +27,7 @@
 - [**Resources**](#resources)
 
 <br>
-<h1 id=about-the-learning-team>About the Learning Team</h1>
+<h1 id='about-the-learning-team'>About the Learning Team</h1>
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
 
@@ -66,12 +66,12 @@ The bootcamp will last approximately 4 weeks. Participants who wish to work on t
 
 The webinars will be held on Satudays at **9:00 PM PST | 12:00 PM EST | 4:00 PM GMT | 9:30 PM IST | 12:00 AM SST**. Each webinar will last approximately 90 minutes (1 & 1/2 hours).
 
-## Channels
+<h2 id='channels'>Channels</h2>
 
 1. **#edu_beta_bootcamp:** All participants in the Beta Bootcamp have been added to this private channel.
 2. **#edu_learners:** This is the channel for everyone insterested in the activities of the Learning Team. It is a public channel.
 
-## Webinars Resources:
+<h2 id='webinars-resources'>Webinars Resources</h2>
 
 Once the recordings become available, the items below will become links.
 
@@ -95,7 +95,7 @@ Once the recordings become available, the items below will become links.
 ### 3. Week 3
 ### 4. Week 4
 
-## Mentorship
+<h1 id='tech-mentorship'>Technical Mentorship</h1>
 
 If you have expressed, in your application, the desire to receive one-on-one technical mentorship during the bootcamp you will be matched with one of the Technical Mentors below. 
 
@@ -116,7 +116,7 @@ If you are not contacted by your mentor by August 3rd, please DM the Learning Te
 
 *If you didn't check the Technical Mentorship box when you applied but now wish to be matched with a Technical Mentor, please send a private message to @Yemi on Slack.*
 
-## Surveys
+<h1 id='surveys'>Surveys</h1>
 
 Don't forget to take the weekly surveys. **Taking them is your chance to shape our future activities and help us improve. Please take a few minutes out of your time to take them.** Help us help you! We would also love to hear your ideas on how we can be more effective.
 
@@ -127,7 +127,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 3. **Survey 3.**
 4. **Survey 4.**
 
-## FAQs
+<h1 id='faqs'>FAQs</h1>
 
 These are some of the answers to some of the questions we have received from you.
 
@@ -137,7 +137,7 @@ These are some of the answers to some of the questions we have received from you
 <p align='center'><b>Beta Bootcamp FAQs</b></p>
 <br>
 
-## Asking Questions
+<h1 id='asking-questions'>Asking Questions</h1>
 
 Whenever you have questions, please post in the bootcamp's channel (**#edu_beta_bootcamp**). Feel free to ping a member of the Beta Bootcamp Team when you post your question. The Beta Bootcamp Team is listed below.
 
@@ -147,26 +147,26 @@ Whenever you have questions, please post in the bootcamp's channel (**#edu_beta_
 
 *Remember that your peers probably have the same questions that you do. So, although you can DM your questions, **we strongly recommend when you post them publicly in the bootcamp's channel (#edu_beta_bootcamp) instead**. Allow your peers to learn from your questions! 🙂*
 
-# The Beta Bootcamp Team
+<h1 id='the-beta-bootcamp-team'>The Beta Bootcamp Team</h1>
 
 * **Yemissi Kifouly (@Yemi):** Learning Team (LT) Lead.
 * **Helena Barmer (@Helena Barmer):** LT Chief Events Manager.
 * **Maddie Shang (@Maddie Shang):** LT Tech Team Lead.
 
-## Tech Leaders
+<h2 id='tech-leaders'>Tech Leaders</h2>
 
 * **Shaistha Fathima (@Shaistha)**
 * **Nahua Kang (@nahua)**
 * **Nilansh Rajput (@Nilansh)** 
 
-## Tech Assistants
+<h2 id='teaching-assistants'>Teaching Assistants</h2>
 
 * **Laura Ayre (@LauraA)**
 * **Manoj Koneni (@manoj_koneni)**
 * **Zarreen Reza (@Zarreen Reza)**
 
 
-# Resources
+<h1 id='resources'>Resources</h1>
 
 [PySyft Tutorials](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials).
 
