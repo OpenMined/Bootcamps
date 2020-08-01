@@ -1,4 +1,4 @@
-<p align="center">
+https://forms.gle/eG8TbMgsqS2VcXop7<p align="center">
   <img src="https://github.com/OpenMined/Bootcamps/blob/master/images/om_logo.png">
 </p>
 <h1 align='center'>Learning Team Beta Bootcamp</h1>
@@ -26,7 +26,6 @@
   - [**Teaching Assitants**](#tech-mentors)
 - [**Resources**](#resources)
 
-<br>
 <h1 id='about-the-learning-team'>About the Learning Team</h1>
 
 We are an OpenMined Education Team. Our goal is to empower the advancement and adoption of Privacy Enhancing Technologies by offering a high quality and low barrier-to-entry learning experience.
@@ -122,8 +121,8 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 
 *The items below will become links as the survey become available.*
 
-1. **Survey 1:** <a href='https://forms.gle/5FYgv5DUciffb5XVA' target="_blank">Form</a>. <a href='https://airtable.com/shryK4VBat2UJeqmj' target='_blank'>Results</a>.
-2. **Survey 2.**
+1. **Survey 1:** [Form](https://forms.gle/5FYgv5DUciffb5XVA). [Results](https://airtable.com/shryK4VBat2UJeqmj).
+2. **Survey 2:** [Form](https://forms.gle/eG8TbMgsqS2VcXop7).
 3. **Survey 3.**
 4. **Survey 4.**
 
