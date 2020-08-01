@@ -68,6 +68,13 @@ Once the recordings become available, the items below will become links.
 * [Recording](https://www.youtube.com/watch?v=s8gmMPNr1-c&feature=youtu.be).
 
 ### 2. Week 2 Resources
+* Homework.
+* Slides.
+* [PySyft Tutorial Notebook 4 (Google Colab)](https://colab.research.google.com/drive/1W8FbX4rSZFAFfnpnoyw4L4thP2XCDfoS?usp=sharing).
+* [PySyft Tutorial Notebook 5 (Google Colab)](https://colab.research.google.com/drive/1T0pJ3DysOn3DM4XW-gNpL63dzw8qDRW7?usp=sharing).
+* [PySyft Tutorial Notebook 6 (Google Colab)](https://colab.research.google.com/drive/11JgtHiA5QZ1WdgCuLjaIA_zyfCW3xvSz?usp=sharing).
+* Recording.
+
 ### 3. Week 3 Resources
 ### 4. Week 4 Resources
 
@@ -81,7 +88,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 
 *The items below will become links as the survey become available.*
 
-1. **Survey 1: <a href='https://forms.gle/5FYgv5DUciffb5XVA' target="_blank">Form</a>. <a href='https://airtable.com/shryK4VBat2UJeqmj' target='_blank'>Results</a>.**
+1. **Survey 1:** <a href='https://forms.gle/5FYgv5DUciffb5XVA' target="_blank">Form</a>. <a href='https://airtable.com/shryK4VBat2UJeqmj' target='_blank'>Results</a>.
 2. **Survey 2.**
 3. **Survey 3.**
 4. **Survey 4.**
@@ -101,6 +108,8 @@ If you still have a question that has not been answered in this file and on the 
 * For **technical questions**, consider pinging one of the Tech members including the Tech Team Lead (@Maddie Shang). 
 * For **questions related to the Bootcamp in general**, ping the Learning Team Lead (@Yemi).
 * For **questions related to webinars logistics** (timing, links, etc...), ping the Learning Team Chief Events Manager (@Helena Barmer).
+
+*Remember that your peers probably have the same questions that you do. So, although you can DM your questions, **we strongly recommend when you post them publicly in the Bootcamp's channel (#edu_beta_bootcamp) instead messaging them to a member of the team**. Allow your peers to learn from your questions! 🙂*
 
 # Meet the Beta Bootcamp Team
 
@@ -135,3 +144,7 @@ If you still have a question that has not been answered in this file and on the 
 # Resources
 
 [PySyft Tutorials](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials).
+
+[How to join a Zoom webinar](https://support.zoom.us/hc/en-us/articles/115004954946-Joining-and-participating-in-a-webinar-attendee-).
+
+[Downloading Zoom](https://zoom.us/download).
