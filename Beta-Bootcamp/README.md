@@ -1,4 +1,4 @@
-https://forms.gle/eG8TbMgsqS2VcXop7<p align="center">
+<p align="center">
   <img src="https://github.com/OpenMined/Bootcamps/blob/master/images/om_logo.png">
 </p>
 <h1 align='center'>Learning Team Beta Bootcamp</h1>
