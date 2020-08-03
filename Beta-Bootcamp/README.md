@@ -89,7 +89,7 @@ Once the recordings become available, the items below will become links.
 * [PySyft Tutorial Notebook 4 (Google Colab)](https://colab.research.google.com/drive/1W8FbX4rSZFAFfnpnoyw4L4thP2XCDfoS?usp=sharing).
 * [PySyft Tutorial Notebook 5 (Google Colab)](https://colab.research.google.com/drive/1T0pJ3DysOn3DM4XW-gNpL63dzw8qDRW7?usp=sharing).
 * [PySyft Tutorial Notebook 6 (Google Colab)](https://colab.research.google.com/drive/11JgtHiA5QZ1WdgCuLjaIA_zyfCW3xvSz?usp=sharing).
-* Recording.
+* [Recording](https://youtu.be/IYPJ-ERkX9s).
 
 ### 3. Week 3
 ### 4. Week 4
