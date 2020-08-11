@@ -92,6 +92,12 @@ Once the recordings become available, the items below will become links.
 * [Recording](https://youtu.be/IYPJ-ERkX9s).
 
 ### 3. Week 3
+* [Homework]().
+* [Slides](https://docs.google.com/presentation/d/18Q9vUAVb2cie95LpgIuVRVr_mMki4iAUp3DHCOJqRVo/edit?usp=sharing).
+* [PySyft Tutorial Notebook 7 (Google Colab)](https://colab.research.google.com/drive/1UNBhO3Ti_QwvZjkxzCr0OwlvfVclsVjP?usp=sharing).
+* [PySyft Tutorial Notebook 8 (Google Colab)](https://colab.research.google.com/drive/1K_kbJZuDiHWC178xk5-k9-NdNiALjYLx?usp=sharing).
+* [Recording]().
+
 ### 4. Week 4
 
 <h1 id='tech-mentorship'>Technical Mentorship</h1>
