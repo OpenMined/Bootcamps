@@ -128,7 +128,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 *The items below will become links as the survey become available.*
 
 1. **Survey 1:** [Form](https://forms.gle/5FYgv5DUciffb5XVA). [Results](https://airtable.com/shryK4VBat2UJeqmj).
-2. **Survey 2:** [Form](https://forms.gle/eG8TbMgsqS2VcXop7).
+2. **Survey 2:** [Form](https://forms.gle/eG8TbMgsqS2VcXop7). [Results](https://airtable.com/shrKx0WUXP9Eb8ae8).
 3. **Survey 3.**
 4. **Survey 4.**
 
