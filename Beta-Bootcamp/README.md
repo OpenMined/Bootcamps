@@ -96,7 +96,7 @@ Once the recordings become available, the items below will become links.
 * [Slides](https://docs.google.com/presentation/d/18Q9vUAVb2cie95LpgIuVRVr_mMki4iAUp3DHCOJqRVo/edit?usp=sharing).
 * [PySyft Tutorial Notebook 7 (Google Colab)](https://colab.research.google.com/drive/1UNBhO3Ti_QwvZjkxzCr0OwlvfVclsVjP?usp=sharing).
 * [PySyft Tutorial Notebook 8 (Google Colab)](https://colab.research.google.com/drive/1K_kbJZuDiHWC178xk5-k9-NdNiALjYLx?usp=sharing).
-* Recording.
+* [Recording](https://www.youtube.com/watch?v=MtCnAhxQZdg&feature=youtu.be).
 
 ### 4. Week 4
 
@@ -129,7 +129,7 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 
 1. **Survey 1:** [Form](https://forms.gle/5FYgv5DUciffb5XVA). [Results](https://airtable.com/shryK4VBat2UJeqmj).
 2. **Survey 2:** [Form](https://forms.gle/eG8TbMgsqS2VcXop7). [Results](https://airtable.com/shrKx0WUXP9Eb8ae8).
-3. **Survey 3.**
+3. **Survey 3.** [Form](https://forms.gle/7wB86xrG4RkCoNhX9).
 4. **Survey 4.**
 
 <h1 id='faqs'>FAQs</h1>
