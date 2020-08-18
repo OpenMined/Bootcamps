@@ -81,7 +81,7 @@ Once the recordings become available, the items below will become links.
 * [PySyft Tutoral Notebook 1 (Google Colab)](https://colab.research.google.com/drive/1Au-8y4LfMh6lWpe1x0u0V0EhEynQcmjn?usp=sharing).
 * [PySyft Tutoral Notebook 2 (Google Colab)](https://colab.research.google.com/drive/1HrK09rKBkc5fMf2NBE8kUe3b8P_EwNqQ?usp=sharing).
 * [PySyft Tutoral Notebook 3 (Google Colab)](https://colab.research.google.com/drive/1hmYy89GzPPkCN0PEVMom-pg70xWG9rni?usp=sharing).
-* [Recording](https://www.youtube.com/watch?v=s8gmMPNr1-c&feature=youtu.be).
+* [Recording](https://youtu.be/m0quvrKcl_U).
 
 ### 2. Week 2
 * [Homework](https://github.com/OpenMined/Bootcamps/blob/master/Beta-Bootcamp/Homeworks/HW_2.md).
