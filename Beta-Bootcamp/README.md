@@ -98,7 +98,18 @@ Once the recordings become available, the items below will become links.
 * [PySyft Tutorial Notebook 8 (Google Colab)](https://colab.research.google.com/drive/1K_kbJZuDiHWC178xk5-k9-NdNiALjYLx?usp=sharing).
 * [Recording](https://www.youtube.com/watch?v=MtCnAhxQZdg&feature=youtu.be).
 
-### 4. Week 4
+### 4. Week 
+* [Cryptly: Privacy-Preserving Browser Extension](https://github.com/sachin-101/Cryptly).
+* [DP: Blog Series & Paper Sessions](https://docs.google.com/presentation/d/1j79X_8osrADSJYFMJQnmWv_fVFec8h5IyIIUGqePqBc/edit?usp=sharing).
+* [DP Lib Comparison: Quick Peek to DP Research Team Work](https://docs.google.com/presentation/d/1j79X_8osrADSJYFMJQnmWv_fVFec8h5IyIIUGqePqBc/edit?usp=sharing).
+* [Federated Learning: Big Pcture](https://docs.google.com/presentation/d/1sbayH9YKg-GxmlLhr1UyVO7prbiU_rPP7FrtyeCOfZo/edit?usp=drivesdk).
+* [Federated Learning: Create Multi-Armed Bandits](https://github.com/OpenMined/PySyft/blob/master/examples/tutorials/model-centric-fl/Part%2003%20-%20Create%20Plan%20(Bandit%20Demo).ipynb).
+* [Federated Learning: Download Trained Model](https://colab.research.google.com/github/OpenMined/PySyft/blob/master/examples/tutorials/model-centric-fl/Part%2002a%20-%20Check%20Model.ipynb).
+* [Federated Leanring: Train FL Model in Python](https://colab.research.google.com/github/OpenMined/PySyft/blob/master/examples/tutorials/model-centric-fl/Part%2002a%20-%20Check%20Model.ipynb).
+* [Federated Learning: Create Plan](https://colab.research.google.com/github/OpenMined/PySyft/blob/master/examples/tutorials/model-centric-fl/Part%2001%20-%20Create%20Plan.ipynb).
+* [How to Start Contributing](https://docs.google.com/presentation/d/1zWJjx-e5aXFI80y3vJ_ofThMkABgGWerQ-CjRrBUUbw/edit?usp=sharing).
+* [Imbalanced Classification: Credit Card Fraud Detection](https://github.com/madisonestabrook/imbalanced_classification/blob/master/imbalanced_classification_pytorch.ipynb).
+* [Recording](https://youtu.be/yDP6Bkcug1s).
 
 <h1 id='tech-mentorship'>Technical Mentorship</h1>
 
@@ -129,8 +140,8 @@ Don't forget to take the weekly surveys. **Taking them is your chance to shape o
 
 1. **Survey 1:** [Form](https://forms.gle/5FYgv5DUciffb5XVA). [Results](https://airtable.com/shryK4VBat2UJeqmj).
 2. **Survey 2:** [Form](https://forms.gle/eG8TbMgsqS2VcXop7). [Results](https://airtable.com/shrKx0WUXP9Eb8ae8).
-3. **Survey 3.** [Form](https://forms.gle/7wB86xrG4RkCoNhX9).
-4. **Survey 4.**
+3. **Survey 3.** [Form](https://forms.gle/7wB86xrG4RkCoNhX9). [Results](https://airtable.com/shrsHssJzkvBMWU7h).
+4. **Survey 4.** [Form](https://forms.gle/TWNSCBSZxad8K2CH6).
 
 <h1 id='faqs'>FAQs</h1>
 
