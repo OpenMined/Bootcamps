@@ -98,7 +98,7 @@ Once the recordings become available, the items below will become links.
 * [PySyft Tutorial Notebook 8 (Google Colab)](https://colab.research.google.com/drive/1K_kbJZuDiHWC178xk5-k9-NdNiALjYLx?usp=sharing).
 * [Recording](https://www.youtube.com/watch?v=MtCnAhxQZdg&feature=youtu.be).
 
-### 4. Week 
+### 4. Week 4
 * [Cryptly: Privacy-Preserving Browser Extension](https://github.com/sachin-101/Cryptly).
 * [DP: Blog Series & Paper Sessions](https://docs.google.com/presentation/d/1j79X_8osrADSJYFMJQnmWv_fVFec8h5IyIIUGqePqBc/edit?usp=sharing).
 * [DP Lib Comparison: Quick Peek to DP Research Team Work](https://docs.google.com/presentation/d/1j79X_8osrADSJYFMJQnmWv_fVFec8h5IyIIUGqePqBc/edit?usp=sharing).
